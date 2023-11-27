@@ -23,7 +23,6 @@
 #include "tests/TestClearColor.h"
 #include "tests/TestTexture2D.h"
 
-// modified
 int main()
 {
 	/* Initialize the library */
