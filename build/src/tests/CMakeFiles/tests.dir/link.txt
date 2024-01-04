@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtests.a CMakeFiles/tests.dir/Test.cpp.o CMakeFiles/tests.dir/TestClearColor.cpp.o CMakeFiles/tests.dir/TestTexture2D.cpp.o
+/usr/bin/ranlib libtests.a

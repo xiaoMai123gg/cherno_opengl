@@ -1,0 +1,9 @@
+/home/maihn/opengl_study/build/CMakeFiles/Application.dir
+/home/maihn/opengl_study/build/CMakeFiles/edit_cache.dir
+/home/maihn/opengl_study/build/CMakeFiles/rebuild_cache.dir
+/home/maihn/opengl_study/build/src/vendor/imgui/CMakeFiles/imgui.dir
+/home/maihn/opengl_study/build/src/vendor/imgui/CMakeFiles/edit_cache.dir
+/home/maihn/opengl_study/build/src/vendor/imgui/CMakeFiles/rebuild_cache.dir
+/home/maihn/opengl_study/build/src/tests/CMakeFiles/tests.dir
+/home/maihn/opengl_study/build/src/tests/CMakeFiles/edit_cache.dir
+/home/maihn/opengl_study/build/src/tests/CMakeFiles/rebuild_cache.dir
